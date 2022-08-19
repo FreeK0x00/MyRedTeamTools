@@ -1,0 +1,1 @@
+https://www.ampliasecurity.com/research/windows-credentials-editor/
